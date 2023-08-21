@@ -74,6 +74,7 @@
         "functional": "cpp",
         "numbers": "cpp",
         "numeric": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "sstream": "cpp"
     }
 }
